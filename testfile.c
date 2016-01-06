@@ -12,3 +12,8 @@ int main(){
     printf("Test Success");
     return 0;   
 }
+<<<<<<< HEAD
+=======
+
+//meeeeeeeening
+>>>>>>> exp1
